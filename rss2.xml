@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KP</title>
+    <link>http://zkpeace.com/blog-cn/</link>
+    
+    <atom:link href="http://zkpeace.com/blog-cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>The Universe of KP</description>
+    <pubDate>Sun, 10 Apr 2022 15:29:39 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>本站主题UNICORN已开源</title>
+      <link>http://zkpeace.com/blog-cn/posts/10093/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/10093/</guid>
+      <pubDate>Tue, 03 Aug 2021 18:53:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;🦄️ Unicorn, 一个简洁且实用的Hexo主题&lt;/h1&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/Uzizkp/hexo-theme-unicorn/raw/master/source/img/example.png&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E4%B8%BB%E9%A2%98/">主题</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%AD%94%E6%94%B9/">魔改</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E6%AE%B5/">前段</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/10093/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>黑鲸智能系统知识库</title>
+      <link>http://zkpeace.com/blog-cn/posts/30954/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/30954/</guid>
+      <pubDate>Sun, 04 Jul 2021 20:52:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note success modern&quot;&gt;&lt;p&gt;为了创建这个知识库, 我自己构建了一套知识库的管理结构, 这文章主要就是介绍这个知识库结构的, 内容有些啰嗦, 因为我想尽量把自己的想法写的清楚一些, 不喜欢读长文的可以直接跳到总结.  依托 Notion</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/30954/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>蜜蜂速查-速查表收集站</title>
+      <link>http://zkpeace.com/blog-cn/posts/61713/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/61713/</guid>
+      <pubDate>Fri, 02 Jul 2021 12:21:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img src=&quot;https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210702122832.png&quot; alt=&quot;蜜蜂速查首页&quot;&gt;&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/">应用开发</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/61713/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>神舟十二号任务公开情报</title>
+      <link>http://zkpeace.com/blog-cn/posts/25946/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/25946/</guid>
+      <pubDate>Thu, 17 Jun 2021 10:59:29 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%A4%AA%E7%A9%BA/">太空</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%81%AB%E7%AE%AD/">火箭</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/25946/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我加入了少数派Matrix，并分享了这些应用... ...</title>
+      <link>http://zkpeace.com/blog-cn/posts/53467/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/53467/</guid>
+      <pubDate>Fri, 11 Jun 2021 13:32:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note flat&quot;&gt;&lt;p&gt;少数派是我比较喜欢的中文科技媒体，最近心血来潮加入了少数派的Matrix社区，准备以后把和科技生活相关的文章同步到少数派，大家如果感兴趣可以点击&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/53467/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Huawei P40 UI 改造</title>
+      <link>http://zkpeace.com/blog-cn/posts/35289/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/35289/</guid>
+      <pubDate>Fri, 11 Jun 2021 12:59:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;内购了一台Huawei P40 想着拿来做备用机，但是鸿蒙这个UI太丑了，说什么商务风成熟风，商务人士不配用好看的UI吗。&lt;br&gt;
+于是我花了点时间用安卓美化最强软件 KWGT 重新优化了桌面，看着顺眼了很多，在这里展示一下。&lt;/p&gt;
+&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/">手机</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/35289/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>对鸿蒙的期待</title>
+      <link>http://zkpeace.com/blog-cn/posts/19657/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/19657/</guid>
+      <pubDate>Fri, 04 Jun 2021 22:12:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note simple&quot;&gt;&lt;p&gt;本文已发表在少数派：&lt;a href=&quot;https://sspai.com/post/67167&quot;&gt;对鸿蒙的期待&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/">观点</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%B8%BF%E8%92%99/">鸿蒙</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/19657/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>途中的树2.0 食用指南</title>
+      <link>http://zkpeace.com/blog-cn/posts/16907/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/16907/</guid>
+      <pubDate>Wed, 26 May 2021 03:11:45 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div class=&quot;note info simple&quot;&gt;&lt;p&gt;如果您在浏览本网站时遇到Bug、加载异常、认知错误请、错别字等等，请给我留言哈，拜托了。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note primary</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/16907/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>上岛通知 Friend Link</title>
+      <link>http://zkpeace.com/blog-cn/posts/59487/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/59487/</guid>
+      <pubDate>Wed, 26 May 2021 02:36:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;pre&gt;&lt;code&gt;网站名:  途中的树
+介绍 : 走出自己的傲慢，承认自己的局限。
+Link: https://zkpeace.com/
+Logo:</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%8F%8B%E9%93%BE/">友链</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AF%B4%E6%98%8E/">说明</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/59487/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>宿舍门口的自然保护区：Messdorfer Feld</title>
+      <link>http://zkpeace.com/blog-cn/posts/51440/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/51440/</guid>
+      <pubDate>Thu, 08 Oct 2020 23:50:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;我的宿舍出门右拐有一块不算小的自然保护区或者说是农田,春天的时候的谷物、树木和鲜花郁郁葱葱,赏心悦目.</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%A7%86%E9%A2%91/">视频</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%BE%B7%E5%9B%BD/">德国</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/51440/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>慕尼黑试飞DJI Mavic mini</title>
+      <link>http://zkpeace.com/blog-cn/posts/58505/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/58505/</guid>
+      <pubDate>Wed, 07 Oct 2020 15:41:57 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;休了几天假去慕尼黑转了一圈,顺便试飞了一下刚买的小飞机Mavic mini.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;安德希斯修道院-Andechs&quot;&gt;安德希斯修道院</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E6%97%85%E8%A1%8C/">旅行</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%97%85%E8%A1%8C/">旅行</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%BE%B7%E5%9B%BD/">德国</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/58505/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>周末撸猫 ~ ~</title>
+      <link>http://zkpeace.com/blog-cn/posts/53493/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/53493/</guid>
+      <pubDate>Tue, 14 Jul 2020 15:29:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;好没更新了,以后发照片也用博文的形式,可以多水几篇,在照片里同样也能看到 ~&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iphone X | 12.07.2020 | Germany&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%8C%AB/">猫</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/53493/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>数据可视化：把玩一下seaborn(二)</title>
+      <link>http://zkpeace.com/blog-cn/posts/26811/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/26811/</guid>
+      <pubDate>Fri, 22 May 2020 22:21:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;著名写博客“有一无二”表演艺术家👨‍🎨,终于要出一次“二”了.&lt;/p&gt;
+&lt;p&gt;另附上收集的seaborn速查表:&lt;a href=&quot;https://zkpeace.com/wiki/seaborn&quot;&gt;seaborn</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/">python</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/python/">python</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/">入门</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/">数据可视化</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/seaborn/">seaborn</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/26811/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>超想吐槽的APPs</title>
+      <link>http://zkpeace.com/blog-cn/posts/3829/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/3829/</guid>
+      <pubDate>Thu, 14 May 2020 00:27:14 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;现在越来越讨厌“超级APP”了.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近几年真的明显的感觉到各个领域的专业App开始走上超级App的道路,什么微信生态,支付宝生态等等应用内生态,facebook生态逐渐建立起来,为了让用户多停留一会,加了巨多的功能和接口,部分</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%90%90%E6%A7%BD/">吐槽</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/3829/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>给自己搞个Logo</title>
+      <link>http://zkpeace.com/blog-cn/posts/25971/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/25971/</guid>
+      <pubDate>Fri, 08 May 2020 14:27:22 GMT</pubDate>
+      
+      <description>终于给自己设计出来了一个满意的Logo如下图,作为一个一点设计经验没有的小白想搞一个好看的专属标志还是有点难度的,主要方向是把自己的名字拼音首字母(zkp)组合成结构漂亮的简单图形,尝试了许多方案后感觉从三角形和四边形比较适合,最终作出了下面的图形</description>
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/logo/">logo</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/25971/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>借りぐらしのアリエッティ</title>
+      <link>http://zkpeace.com/blog-cn/posts/63260/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/63260/</guid>
+      <pubDate>Fri, 01 May 2020 14:15:42 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;《借东西的小人阿莉埃蒂》2010年在日本上映，吉普力工作室出品，宫崎骏编剧，米林宏昌导演，配音阵容强大：志田未来，神木隆之介，三浦友和… 整体故事结构非常简单：十几岁的少年 翔</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E5%BD%B1%E8%AF%84/">影评</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%BD%B1%E8%AF%84/">影评</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%B5%E5%BD%B1/">电影</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E4%B9%A6%E5%BD%B1%E9%9F%B3/">书影音</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%8A%A8%E7%94%BB/">动画</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/63260/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>岛屿--个人网站博客搜集页</title>
+      <link>http://zkpeace.com/blog-cn/posts/24491/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/24491/</guid>
+      <pubDate>Wed, 29 Apr 2020 17:46:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;岛屿–个人站点博客收录&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/%E6%88%AA%E5%B1%8F2021-06-11%2000.33.17.png&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%BD%91%E7%AB%99/">网站</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/24491/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>数据可视化：把玩一下seaborn(一)</title>
+      <link>http://zkpeace.com/blog-cn/posts/43039/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/43039/</guid>
+      <pubDate>Thu, 23 Apr 2020 20:18:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;最近刚开始学习数据可视化，第一个任务就是了解并完成seaborn（一个python处理数据可视化的库）的官方教程，其他数据可视化的内容会后续更新。seaborn在调用数据的时候会有一些数据库相关的操作,例如&lt;code&gt;data=data=diamo</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/">python</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/python/">python</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/">入门</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/">数据可视化</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/seaborn/">seaborn</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/43039/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>手臂机器人:机器人检测物体与运动规划</title>
+      <link>http://zkpeace.com/blog-cn/posts/12591/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/12591/</guid>
+      <pubDate>Fri, 17 Apr 2020 23:16:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img src=&quot;https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20211028224244.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E8%AE%A4%E7%9F%A5%E6%9C%BA%E5%99%A8/">认知机器</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92/">运动规划</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/">机器人</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/12591/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2020搬家记录</title>
+      <link>http://zkpeace.com/blog-cn/posts/31156/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/31156/</guid>
+      <pubDate>Mon, 02 Mar 2020 22:27:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;从2019年九月就开始申请学校的宿舍，现在终于拿到房子了！由于一次失误住进了超贵的“高级公寓”终于可以搬出来了哈哈哈哈哈哈，そんなに嬉しいことはないわ。记录一下过程。&lt;/p&gt;
+&lt;p&gt;我在stw bonn（Studierendenwerk Bonn</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/31156/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
