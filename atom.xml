@@ -6,7 +6,7 @@
   <link href="http://zkpeace.com/blog-cn/atom.xml" rel="self"/>
   
   <link href="http://zkpeace.com/blog-cn/"/>
-  <updated>2022-04-10T15:29:39.079Z</updated>
+  <updated>2022-04-11T15:45:21.170Z</updated>
   <id>http://zkpeace.com/blog-cn/</id>
   
   <author>
@@ -17,18 +17,51 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>局域网配置HomeAssistant真的不容易</title>
+    <link href="http://zkpeace.com/blog-cn/posts/240/"/>
+    <id>http://zkpeace.com/blog-cn/posts/240/</id>
+    <published>2022-03-23T05:01:39.000Z</published>
+    <updated>2022-04-11T15:45:21.170Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;什么是HomeAssistant&lt;/h1&gt;
+&lt;p&gt;HomeAssistant是一个轻量级的自动化智能家居系统，它可以帮助我们自动配置和管理家庭设备。&lt;/p&gt;
+&lt;h1&gt;为什么需要HomeAssistant&lt;/h1&gt;
+&lt;h1&gt;构建HomeAssistant系统&lt;/h1&gt;
+&lt;h</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="智能家居" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+    
+    <category term="智能家居" scheme="http://zkpeace.com/blog-cn/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+    <category term="未完成" scheme="http://zkpeace.com/blog-cn/tags/%E6%9C%AA%E5%AE%8C%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>本站主题UNICORN已开源</title>
     <link href="http://zkpeace.com/blog-cn/posts/10093/"/>
     <id>http://zkpeace.com/blog-cn/posts/10093/</id>
     <published>2021-08-03T18:53:18.000Z</published>
-    <updated>2022-04-10T15:29:39.079Z</updated>
+    <updated>2022-04-10T17:14:00.811Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;🦄️ Unicorn, 一个简洁且实用的Hexo主题&lt;/h1&gt;
+    <summary type="html">&lt;h1&gt;Unicorn, 一个简洁且实用的Hexo主题&lt;/h1&gt;
 &lt;center&gt;
 &lt;p&gt;&lt;img src=&quot;https://github.com/Uzizkp/hexo-theme-unicorn/raw/master/source/img/example.png&quot;</summary>
         
@@ -58,7 +91,7 @@
     <link href="http://zkpeace.com/blog-cn/posts/30954/"/>
     <id>http://zkpeace.com/blog-cn/posts/30954/</id>
     <published>2021-07-04T20:52:46.000Z</published>
-    <updated>2022-03-23T07:14:03.910Z</updated>
+    <updated>2022-04-11T15:37:24.239Z</updated>
     
     
       
@@ -87,7 +120,7 @@
     <link href="http://zkpeace.com/blog-cn/posts/61713/"/>
     <id>http://zkpeace.com/blog-cn/posts/61713/</id>
     <published>2021-07-02T12:21:11.000Z</published>
-    <updated>2021-07-04T21:24:14.000Z</updated>
+    <updated>2022-04-11T15:37:31.422Z</updated>
     
     
       
@@ -227,7 +260,7 @@
     <link href="http://zkpeace.com/blog-cn/posts/16907/"/>
     <id>http://zkpeace.com/blog-cn/posts/16907/</id>
     <published>2021-05-26T03:11:45.000Z</published>
-    <updated>2022-04-10T15:29:46.483Z</updated>
+    <updated>2022-04-11T15:37:38.456Z</updated>
     
     
       
@@ -253,9 +286,9 @@
     
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
-    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
-    
     <category term="前端" scheme="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
@@ -345,11 +378,11 @@ Logo:</summary>
     <category term="旅行" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E6%97%85%E8%A1%8C/"/>
     
     
-    <category term="旅行" scheme="http://zkpeace.com/blog-cn/tags/%E6%97%85%E8%A1%8C/"/>
-    
     <category term="摄影" scheme="http://zkpeace.com/blog-cn/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="德国" scheme="http://zkpeace.com/blog-cn/tags/%E5%BE%B7%E5%9B%BD/"/>
+    
+    <category term="旅行" scheme="http://zkpeace.com/blog-cn/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
@@ -604,36 +637,6 @@ Logo:</summary>
     <category term="运动规划" scheme="http://zkpeace.com/blog-cn/tags/%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92/"/>
     
     <category term="机器人" scheme="http://zkpeace.com/blog-cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020搬家记录</title>
-    <link href="http://zkpeace.com/blog-cn/posts/31156/"/>
-    <id>http://zkpeace.com/blog-cn/posts/31156/</id>
-    <published>2020-03-02T22:27:41.000Z</published>
-    <updated>2021-06-01T09:46:15.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;从2019年九月就开始申请学校的宿舍，现在终于拿到房子了！由于一次失误住进了超贵的“高级公寓”终于可以搬出来了哈哈哈哈哈哈，そんなに嬉しいことはないわ。记录一下过程。&lt;/p&gt;
-&lt;p&gt;我在stw bonn（Studierendenwerk Bonn</summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
-    
-    
-    <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
