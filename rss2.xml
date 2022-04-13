@@ -9,11 +9,43 @@
     <atom:link href="http://zkpeace.com/blog-cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>The Universe of KP</description>
-    <pubDate>Mon, 11 Apr 2022 15:45:21 GMT</pubDate>
+    <pubDate>Wed, 13 Apr 2022 03:20:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>局域网配置HomeAssistant真的不容易</title>
+      <title>特殊时期在上海</title>
+      <link>http://zkpeace.com/blog-cn/posts/29555/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/29555/</guid>
+      <pubDate>Wed, 13 Apr 2022 02:40:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;日记 2022年4月10日&lt;br&gt;
+上海市</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/29555/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>小米智能家居联动HomeKit</title>
       <link>http://zkpeace.com/blog-cn/posts/240/</link>
       <guid>http://zkpeace.com/blog-cn/posts/240/</guid>
       <pubDate>Wed, 23 Mar 2022 05:01:39 GMT</pubDate>
@@ -22,11 +54,7 @@
         
           
           
-      <description>&lt;h1&gt;什么是HomeAssistant&lt;/h1&gt;
-&lt;p&gt;HomeAssistant是一个轻量级的自动化智能家居系统，它可以帮助我们自动配置和管理家庭设备。&lt;/p&gt;
-&lt;h1&gt;为什么需要HomeAssistant&lt;/h1&gt;
-&lt;h1&gt;构建HomeAssistant系统&lt;/h1&gt;
-&lt;h</description>
+      <description>&lt;p&gt;如果你玩过智能家居，想必也知道不同大厂品牌的智能家居都在构建自己的壁垒，由于不同品牌的智能家居系统优缺点十分明显，自然而然的有玩家想要打破品牌的壁垒，融合各家的优点，打造专属于自己智能家居场景。在众多品牌智能家居中米家价格便宜种类全，可玩性很高，而apple智能家居系统使用</description>
           
         
       
@@ -71,9 +99,9 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E4%B8%BB%E9%A2%98/">主题</category>
       
@@ -223,11 +251,11 @@
       
       
       
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
       <category domain="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/">手机</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/35289/#disqus_thread</comments>
@@ -254,9 +282,9 @@
       
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/">观点</category>
       
@@ -291,9 +319,9 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
       
@@ -637,42 +665,6 @@ Logo:</description>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/43039/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>手臂机器人:机器人检测物体与运动规划</title>
-      <link>http://zkpeace.com/blog-cn/posts/12591/</link>
-      <guid>http://zkpeace.com/blog-cn/posts/12591/</guid>
-      <pubDate>Fri, 17 Apr 2020 23:16:08 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;&lt;img src=&quot;https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20211028224244.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2</description>
-          
-        
-      
-      
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/">项目</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E8%AE%A4%E7%9F%A5%E6%9C%BA%E5%99%A8/">认知机器</category>
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92/">运动规划</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/">机器人</category>
-      
-      
-      <comments>http://zkpeace.com/blog-cn/posts/12591/#disqus_thread</comments>
       
     </item>
     

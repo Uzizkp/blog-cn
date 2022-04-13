@@ -6,7 +6,7 @@
   <link href="http://zkpeace.com/blog-cn/atom.xml" rel="self"/>
   
   <link href="http://zkpeace.com/blog-cn/"/>
-  <updated>2022-04-11T15:45:21.170Z</updated>
+  <updated>2022-04-13T03:20:01.384Z</updated>
   <id>http://zkpeace.com/blog-cn/</id>
   
   <author>
@@ -17,22 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>局域网配置HomeAssistant真的不容易</title>
+    <title>特殊时期在上海</title>
+    <link href="http://zkpeace.com/blog-cn/posts/29555/"/>
+    <id>http://zkpeace.com/blog-cn/posts/29555/</id>
+    <published>2022-04-13T02:40:10.000Z</published>
+    <updated>2022-04-13T03:20:01.384Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;日记 2022年4月10日&lt;br&gt;
+上海市</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+    <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米智能家居联动HomeKit</title>
     <link href="http://zkpeace.com/blog-cn/posts/240/"/>
     <id>http://zkpeace.com/blog-cn/posts/240/</id>
     <published>2022-03-23T05:01:39.000Z</published>
-    <updated>2022-04-11T15:45:21.170Z</updated>
+    <updated>2022-04-13T04:44:01.439Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;什么是HomeAssistant&lt;/h1&gt;
-&lt;p&gt;HomeAssistant是一个轻量级的自动化智能家居系统，它可以帮助我们自动配置和管理家庭设备。&lt;/p&gt;
-&lt;h1&gt;为什么需要HomeAssistant&lt;/h1&gt;
-&lt;h1&gt;构建HomeAssistant系统&lt;/h1&gt;
-&lt;h</summary>
+    <summary type="html">&lt;p&gt;如果你玩过智能家居，想必也知道不同大厂品牌的智能家居都在构建自己的壁垒，由于不同品牌的智能家居系统优缺点十分明显，自然而然的有玩家想要打破品牌的壁垒，融合各家的优点，打造专属于自己智能家居场景。在众多品牌智能家居中米家价格便宜种类全，可玩性很高，而apple智能家居系统使用</summary>
         
       
     
@@ -74,9 +100,9 @@
     <category term="其他项目" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="hexo" scheme="http://zkpeace.com/blog-cn/tags/hexo/"/>
+    
+    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="主题" scheme="http://zkpeace.com/blog-cn/tags/%E4%B8%BB%E9%A2%98/"/>
     
@@ -216,11 +242,11 @@
     
     
     
+    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="手机" scheme="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
-    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -245,9 +271,9 @@
     
     
     
-    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="观点" scheme="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/"/>
     
@@ -280,9 +306,9 @@
     <category term="其他项目" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="hexo" scheme="http://zkpeace.com/blog-cn/tags/hexo/"/>
+    
+    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
@@ -603,40 +629,6 @@ Logo:</summary>
     <category term="数据可视化" scheme="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
     <category term="seaborn" scheme="http://zkpeace.com/blog-cn/tags/seaborn/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>手臂机器人:机器人检测物体与运动规划</title>
-    <link href="http://zkpeace.com/blog-cn/posts/12591/"/>
-    <id>http://zkpeace.com/blog-cn/posts/12591/</id>
-    <published>2020-04-17T23:16:08.000Z</published>
-    <updated>2021-10-28T21:25:40.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20211028224244.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="项目" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="认知机器" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E8%AE%A4%E7%9F%A5%E6%9C%BA%E5%99%A8/"/>
-    
-    
-    <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="计算机视觉" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
-    
-    <category term="运动规划" scheme="http://zkpeace.com/blog-cn/tags/%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92/"/>
-    
-    <category term="机器人" scheme="http://zkpeace.com/blog-cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
   </entry>
   

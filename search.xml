@@ -4,11 +4,40 @@
   
     
     <entry>
-      <title>局域网配置HomeAssistant真的不容易</title>
+      <title>特殊时期在上海</title>
+      <link href="/blog-cn/posts/29555/"/>
+      <url>/blog-cn/posts/29555/</url>
+      
+        <content type="html"><![CDATA[<p>日记 2022年4月10日<br>上海市 28°C，大部晴朗</p><p>慌慌不安。<br>担心没饭吃，<br>担心团购拿错，<br>担心外卖被偷，<br>担心感染阳性，<br>担心误检阳性，<br>担心核酸交叉感染，<br>担心拿外卖交叉感染，<br>担心因交叉感染拉去方舱，<br>担心在方舱无休无止的隔离，<br>担心阳性居家转阴后又被抓去方舱，<br>担心邻里间有阳性过度恐慌相互伤害，<br>担心基层人员权利过大边界模糊相互伤害，<br>担心志愿者人手不足居民心力交瘁相互伤害，<br>担心城外同胞事不关己现在高墙上随意网暴，<br>只是一个青年的担心而已，<br>老人也许有其他的担心吧，我不知道，<br>母亲也许有其他的担心吧，我不知道，<br>只是一个普通人的担心而已，<br>奥密克戎到底对身体有多大的伤害，我不知道，<br>现在的情形到底对多少人有多大的伤害，我不知道，<br>还勉强的生活着，终有一天会结束，<br>只是有一点担心而已。</p><p>————</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+          <category> 记事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小米智能家居联动HomeKit</title>
       <link href="/blog-cn/posts/240/"/>
       <url>/blog-cn/posts/240/</url>
       
-        <content type="html"><![CDATA[<h1>什么是HomeAssistant</h1><p>HomeAssistant是一个轻量级的自动化智能家居系统，它可以帮助我们自动配置和管理家庭设备。</p><h1>为什么需要HomeAssistant</h1><h1>构建HomeAssistant系统</h1><h1>米家产品与Homekit</h1><h1>万恶的局域网</h1>]]></content>
+        <content type="html"><![CDATA[<p>如果你玩过智能家居，想必也知道不同大厂品牌的智能家居都在构建自己的壁垒，由于不同品牌的智能家居系统优缺点十分明显，自然而然的有玩家想要打破品牌的壁垒，融合各家的优点，打造专属于自己智能家居场景。在众多品牌智能家居中米家价格便宜种类全，可玩性很高，而apple智能家居系统使用体验是最好的，结合这两个系统的产品成为了包括我在内的众多玩家的第一选择。关于小米智能家居联动homekit的方案，网上已经有大量的教程，在网络通畅的情况下实现起来其实并不困难。总的来说就是将不同协议的智能家居设备通过HomeAssistant系统（简称HA）进行管理，并且通过HomeAssistant系统进行联动。虽然HA的管理比较简单，但是联动的实现比较复杂，需要自己根据情况去实现。这里就记录一下，我一个10平的小房间的配置过程。</p><h2 id="了解HomeAssistant">了解<a href="https://www.home-assistant.io/">HomeAssistant</a></h2><blockquote><p>Awaken your home<br>Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.</p></blockquote><p><a href="https://demo.home-assistant.io/#/lovelace/1">管理界面示例</a></p><p>作为一个开源的智能家居系统，HA拥有庞大的用户社区，并且可以非常灵活的部署和配置。</p><h2 id="配置了解HomeAssistant系统">配置了解HomeAssistant系统</h2><h2 id="HomeAssistant-Community-Store">HomeAssistant Community Store</h2><h2 id="米家产品与Homekit">米家产品与Homekit</h2><p><a href="https://home.miot-spec.com/">查询xiomi-miot支持的小米设备</a></p><ul><li>🔌 <a href="https://home.miot-spec.com/s/plug">插座</a> / <a href="https://home.miot-spec.com/s/switch">开关</a></li><li>💡 <a href="https://home.miot-spec.com/s/light">智能灯</a></li><li>❄️ <a href="https://home.miot-spec.com/s/aircondition">空调</a> / <a href="https://home.miot-spec.com/s/acpartner">空调伴侣</a> / <a href="https://home.miot-spec.com/s/airrtc">温控器</a></li><li>🌀 <a href="https://home.miot-spec.com/s/fan">风扇</a> / <a href="https://home.miot-spec.com/s/ven_fan">凉霸</a></li><li>🛀 <a href="https://home.miot-spec.com/s/bhf_light">浴霸</a> / 🔥 <a href="https://home.miot-spec.com/s/heater">取暖器</a></li><li>📷 <a href="https://home.miot-spec.com/s/camera">摄像头</a> / <a href="https://home.miot-spec.com/s/cateye">猫眼/可视门铃</a> <a href="https://github.com/al-one/hass-xiaomi-miot/issues/100#issuecomment-903078604">❓️</a></li><li>📺 <a href="https://home.miot-spec.com/s/tv">电视</a> / 📽️ <a href="https://home.miot-spec.com/s/projector">投影仪</a> / <a href="https://home.miot-spec.com/s/tvbox">机顶盒</a></li><li>🗣️ <a href="https://home.miot-spec.com/s/wifispeaker">小爱音箱</a> <a href="https://github.com/al-one/hass-xiaomi-miot/issues/100#issuecomment-885989099">❓️</a></li><li>🎮️ <a href="https://home.miot-spec.com/s/chuangmi.remote">万能遥控器</a> <a href="https://github.com/al-one/hass-xiaomi-miot/commit/fbcc8063783e53b9480574536a034d338634f4e8#commitcomment-56563663">❓️</a></li><li>🔐 <a href="https://home.miot-spec.com/s/lock">智能门锁</a> / 🚪 <a href="https://home.miot-spec.com/s/door">智慧门</a></li><li>👕 <a href="https://home.miot-spec.com/s/washer">洗衣机</a> / <a href="https://home.miot-spec.com/s/fridge">冰箱</a></li><li>🚰 <a href="https://home.miot-spec.com/s/waterpuri">净水器</a> / <a href="https://home.miot-spec.com/s/kettle">饮水机</a></li><li>♻️ <a href="https://home.miot-spec.com/s/airpurifier">空气净化器</a> / <a href="https://home.miot-spec.com/s/airfresh">新风机</a></li><li>🌡 <a href="https://home.miot-spec.com/s/sensor_ht">温湿度传感器</a> / <a href="https://home.miot-spec.com/s/flood">水侵传感器</a> / <a href="https://home.miot-spec.com/s/sensor_smoke">烟雾传感器</a></li><li>🥘 <a href="https://home.miot-spec.com/s/cooker">电饭煲</a> / <a href="https://home.miot-spec.com/s/pre_cooker">压力锅</a></li><li>🍲 <a href="https://home.miot-spec.com/s/ihcooker">电磁炉</a> / <a href="https://home.miot-spec.com/s/oven">烤箱</a> / <a href="https://home.miot-spec.com/s/microwave">微波炉</a></li><li>🍗 <a href="https://home.miot-spec.com/s/fryer">空气炸锅</a> / <a href="https://home.miot-spec.com/s/mfcp">多功能锅</a></li><li>🍵 <a href="https://home.miot-spec.com/s/health_pot">养生壶</a> / ☕️ <a href="https://home.miot-spec.com/s/coffee">咖啡机</a></li><li>🍹 <a href="https://home.miot-spec.com/s/juicer">破壁机</a> / <a href="https://home.miot-spec.com/s/juicer">搅拌机</a> / <a href="https://home.miot-spec.com/s/f_washer">果蔬清洗机</a></li><li>♨️ <a href="https://home.miot-spec.com/s/waterheater">热水器</a> / <a href="https://home.miot-spec.com/s/hood">油烟机</a> / <a href="https://home.miot-spec.com/s/dishwasher">洗碗机</a></li><li>🦠 <a href="https://home.miot-spec.com/s/steriliser">消毒柜</a></li><li>🪟 <a href="https://home.miot-spec.com/s/curtain">窗帘电机</a> / <a href="https://home.miot-spec.com/s/wopener">开窗器</a> / <a href="https://home.miot-spec.com/s/airer">晾衣机</a></li><li>🧹 <a href="https://home.miot-spec.com/s/vacuum">扫地/扫拖机器人</a> / <a href="https://home.miot-spec.com/s/.mop">擦地机</a></li><li>💦 <a href="https://home.miot-spec.com/s/humidifier">加湿器</a> / <a href="https://home.miot-spec.com/s/derh">除湿器</a></li><li>🍃 <a href="https://home.miot-spec.com/s/airmonitor">空气检测仪</a> / 🪴 <a href="https://home.miot-spec.com/s/plantmonitor">植物监测仪</a></li><li>🛏 <a href="https://home.miot-spec.com/s/bed">电动床</a> / <a href="https://home.miot-spec.com/s/blanket">电热毯/水暖床垫</a> / 😴 <a href="https://home.miot-spec.com/s/lunar">睡眠监测仪</a></li><li>💆 <a href="https://home.miot-spec.com/s/massage">按摩椅</a> / <a href="https://home.miot-spec.com/s/magic_touch">按摩仪</a></li><li>🏃 <a href="https://home.miot-spec.com/s/walkingpad">走步机</a> / <a href="https://home.miot-spec.com/s/treadmill">跑步机</a> / <a href="https://home.miot-spec.com/s/desk">升降桌</a></li><li>🚽 <a href="https://home.miot-spec.com/s/toilet">马桶(盖)</a> /️ <a href="https://home.miot-spec.com/s/.tow">毛巾架</a> /️ 🪥 <a href="https://home.miot-spec.com/s/toothbrush">牙刷</a></li><li>🐱 <a href="https://home.miot-spec.com/s/feeder">宠物喂食器</a> / ⛲ <a href="https://home.miot-spec.com/s/pet_waterer">宠物饮水机</a> / 🐟 <a href="https://home.miot-spec.com/s/fishbowl">鱼缸</a></li><li>🦟 <a href="https://home.miot-spec.com/s/mosq">驱蚊器</a> / <a href="https://home.miot-spec.com/s/s_lamp">消毒/灭菌灯</a></li><li>🚘 <a href="https://home.miot-spec.com/s/rv_mirror">智能后视镜</a> / <a href="https://home.miot-spec.com/s/hud">抬头显示HUD</a></li><li>⌚️ <a href="https://home.miot-spec.com/s/watch">智能/儿童手表</a> / <a href="https://home.miot-spec.com/s/bracelet">手环</a></li><li>🚶 <a href="https://home.miot-spec.com/s/motion">人体传感器</a> / 🧲 <a href="https://home.miot-spec.com/s/magnet">门窗传感器</a> <a href="https://github.com/al-one/hass-xiaomi-miot/issues/100#issuecomment-909031222">❓️</a></li><li>📳 <a href="https://home.miot-spec.com/s/vibration">动静贴</a></li><li>🌐 <a href="https://home.miot-spec.com/s/router">路由器</a> / 🖨 <a href="https://home.miot-spec.com/s/printer">打印机</a></li></ul><h2 id="万恶的局域网">万恶的局域网</h2><h2 id="参考资料">参考资料</h2><ul><li><a href="https://www.hachina.io/">HACHINA中文网</a></li><li><a href="https://www.home-assistant.io/">HA官网</a></li></ul>]]></content>
       
       
       <categories>
@@ -51,9 +80,9 @@
       
         <tags>
             
-            <tag> 设计 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 设计 </tag>
             
             <tag> 主题 </tag>
             
@@ -178,11 +207,11 @@
       
         <tags>
             
+            <tag> 软件 </tag>
+            
             <tag> 手机 </tag>
             
             <tag> 设计 </tag>
-            
-            <tag> 软件 </tag>
             
         </tags>
       
@@ -201,9 +230,9 @@
       
         <tags>
             
-            <tag> 设计 </tag>
-            
             <tag> 软件 </tag>
+            
+            <tag> 设计 </tag>
             
             <tag> 观点 </tag>
             
@@ -234,9 +263,9 @@
       
         <tags>
             
-            <tag> 设计 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 设计 </tag>
             
             <tag> 项目 </tag>
             
@@ -732,9 +761,9 @@
       
         <tags>
             
-            <tag> web </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> web </tag>
             
             <tag> 记事 </tag>
             
@@ -790,11 +819,11 @@
       
         <tags>
             
-            <tag> 软件 </tag>
+            <tag> 推荐 </tag>
             
             <tag> mac </tag>
             
-            <tag> 推荐 </tag>
+            <tag> 软件 </tag>
             
             <tag> 效率 </tag>
             
@@ -924,9 +953,9 @@
             
             <tag> 摄影 </tag>
             
-            <tag> 旅行 </tag>
-            
             <tag> 意大利 </tag>
+            
+            <tag> 旅行 </tag>
             
         </tags>
       
@@ -955,11 +984,11 @@
             
             <tag> 笔记 </tag>
             
+            <tag> hexo </tag>
+            
             <tag> web </tag>
             
             <tag> 推荐 </tag>
-            
-            <tag> hexo </tag>
             
         </tags>
       
@@ -988,9 +1017,9 @@
             
             <tag> 笔记 </tag>
             
-            <tag> web </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> web </tag>
             
         </tags>
       
@@ -1050,9 +1079,9 @@
             
             <tag> 笔记 </tag>
             
-            <tag> js </tag>
-            
             <tag> web </tag>
+            
+            <tag> js </tag>
             
             <tag> 3d </tag>
             
