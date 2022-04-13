@@ -602,11 +602,11 @@
             
             <tag> 项目 </tag>
             
+            <tag> 机器人 </tag>
+            
             <tag> 计算机视觉 </tag>
             
             <tag> 运动规划 </tag>
-            
-            <tag> 机器人 </tag>
             
         </tags>
       
@@ -1048,9 +1048,9 @@
             
             <tag> 项目 </tag>
             
-            <tag> 机器人 </tag>
-            
             <tag> ros </tag>
+            
+            <tag> 机器人 </tag>
             
         </tags>
       
