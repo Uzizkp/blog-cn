@@ -80,9 +80,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 设计 </tag>
+            
+            <tag> hexo </tag>
             
             <tag> 主题 </tag>
             
@@ -207,11 +207,11 @@
       
         <tags>
             
-            <tag> 软件 </tag>
-            
             <tag> 手机 </tag>
             
             <tag> 设计 </tag>
+            
+            <tag> 软件 </tag>
             
         </tags>
       
@@ -230,9 +230,9 @@
       
         <tags>
             
-            <tag> 软件 </tag>
-            
             <tag> 设计 </tag>
+            
+            <tag> 软件 </tag>
             
             <tag> 观点 </tag>
             
@@ -263,15 +263,15 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 设计 </tag>
+            
+            <tag> hexo </tag>
             
             <tag> 项目 </tag>
             
-            <tag> 前端 </tag>
-            
             <tag> 其他项目 </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -284,7 +284,7 @@
       <link href="/blog-cn/posts/59487/"/>
       <url>/blog-cn/posts/59487/</url>
       
-        <content type="html"><![CDATA[<pre><code>网站名:  途中的树介绍 : 走出自己的傲慢，承认自己的局限。Link: https://zkpeace.com/Logo: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718002545.webp</code></pre><h2 id="全站链接">全站链接</h2><p>本站下方footer友联，根据眼缘添加</p><h2 id="岛屿">岛屿</h2><p>友联页面<a href="/links/">岛屿</a>,只要不是黄赌毒，大概率都会添加</p><p>欢迎新朋友来交换友联👏, 别忘了添加本站链接哈</p>]]></content>
+        <content type="html"><![CDATA[<pre><code>网站名:  途中的树介绍 : 走出自己的傲慢，承认自己的局限。Link: https://zkpeace.com/Logo: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718002545.webp</code></pre><h2 id="全站链接">全站链接</h2><p>本站下方footer友联，根据眼缘添加</p><h2 id="岛屿">岛屿</h2><p>友联页面<a href="/links/">岛屿</a>,只要不是黄赌毒，大概率都会添加</p><p>欢迎新朋友来交换友联👏, 别忘了添加本站链接哈</p><p>!!! 友链界面重构中，各位的友链会在完成后恢复。</p>]]></content>
       
       
       
@@ -602,11 +602,11 @@
             
             <tag> 项目 </tag>
             
-            <tag> 机器人 </tag>
-            
             <tag> 计算机视觉 </tag>
             
             <tag> 运动规划 </tag>
+            
+            <tag> 机器人 </tag>
             
         </tags>
       
@@ -673,11 +673,11 @@
     
     
     <entry>
-      <title>小程序功能组件推荐</title>
-      <link href="/blog-cn/posts/41204/"/>
-      <url>/blog-cn/posts/41204/</url>
+      <title>小程序UI组件推荐</title>
+      <link href="/blog-cn/posts/1941/"/>
+      <url>/blog-cn/posts/1941/</url>
       
-        <content type="html"><![CDATA[<p>最近出于兴趣在做小程序的开发，所以找了很多“轮子”，大多数开源组件都不尽人意，这里挑出几个好用的分享一下。</p><h2 id="NewWxComment-为数不多的评论组件">NewWxComment 为数不多的评论组件</h2><p><a href="https://github.com/yicm/NewWxComment">仓库</a> | <a href="https://github.com/yicm">作者</a></p><blockquote><p>NewWxCommenthttps://github.com/yicm/NewWxComment是一个微信小程序的评论组件，结合BaaS提供商LeanCloud，无需其他另外的个人或者云服务器，就可以免费使用。解决了需要个人去注册域名、备案、购买云服务器的繁杂问题。且兼容Valinehttps://github.com/xCss/Valine评论，打通PC端和移动端评论，特别适合使用Valine评论系统且想同时开发小程序文章评论的同学们.</p></blockquote><h4 id="特点">特点</h4><ul><li>独立插件，独立放入小程序项目即可使用</li><li>打通Valine评论系统，统一PC端和小程序端</li><li>友好的UI界面和交互界面</li><li>与微信用户信息绑定，显示微信用户头像和昵称</li><li>支持文章阅读量统计功能</li><li>支持评论回复功能，即子评论</li><li>支持emoji表情显示😉</li><li>支持评论分页加载</li><li>支持评论分页参数设置</li><li>内置获取微信用户公共信息授权</li><li>支持light/dark两种主题</li><li>机型兼容友好，包括全面屏iphone11等</li></ul>]]></content>
+        <content type="html"><![CDATA[<div class="note primary flat"><p>记录在制作小程序时使用的组件</p></div><h2 id="ColorUI">ColorUI</h2><blockquote><p>ColorUI是一个css库！！！在你引入样式后可以根据class来调用组件，一些含有交互的操作也有，可以为你开发提供一些思路。<a href="https://www.color-ui.com/">下载</a>|<a href="https://github.com/weilanwl/ColorUI">仓库</a>｜扫描下面二维码可以预览全部组件👇<br><img src="https://i.loli.net/2020/02/22/uiMEAIZYFpPTGKB.png" alt=""></p></blockquote><p>直接下载组件，根据官方Readme介绍，移动<code>/demo</code>（我把文件名改为colorui）到小程序目录里即可，我是创建了文件夹<code>components</code>用于统一管理外部组件，结构如下。</p><p><img src="https://i.loli.net/2020/02/22/KAlbTFatwoev3yk.png" alt=""></p><p>下一步要在全局样式表<code>app.wxss</code>中导入样式（注意自己的路径⚠️）</p><pre><code class="language-css">@import './components/colorui/main.wxss'; # 样式@import './components/colorui/icon.wxss'; # 图标</code></pre><p>然后就可以在自己的Pages里调用样式了，作者并没有提供详尽的使用说明，所以可以先在手机上看Demo效果，然后去对应<code>.wxml</code>文件里找到位置，找到标签，如果需要修改可以去对应<code>main.wxss</code>文件中<code>Ctrl+F</code>找到修改源码，或者自己写css覆盖。</p><p>ColorUI是我一直使用的UI组件，所以详细介绍一下，当然还又很多其他的UI组件也不错。</p><h2 id="其他">其他</h2><ul><li><a href="">iViewUI</a></li><li><a href="">MinUI</a></li><li><a href="">TaroUI</a></li><li><a href="">Vant组件</a></li><li><a href="">WuxUI</a></li></ul>]]></content>
       
       
       <categories>
@@ -708,11 +708,11 @@
     
     
     <entry>
-      <title>小程序UI组件推荐</title>
-      <link href="/blog-cn/posts/1941/"/>
-      <url>/blog-cn/posts/1941/</url>
+      <title>小程序功能组件推荐</title>
+      <link href="/blog-cn/posts/41204/"/>
+      <url>/blog-cn/posts/41204/</url>
       
-        <content type="html"><![CDATA[<div class="note primary flat"><p>记录在制作小程序时使用的组件</p></div><h2 id="ColorUI">ColorUI</h2><blockquote><p>ColorUI是一个css库！！！在你引入样式后可以根据class来调用组件，一些含有交互的操作也有，可以为你开发提供一些思路。<a href="https://www.color-ui.com/">下载</a>|<a href="https://github.com/weilanwl/ColorUI">仓库</a>｜扫描下面二维码可以预览全部组件👇<br><img src="https://i.loli.net/2020/02/22/uiMEAIZYFpPTGKB.png" alt=""></p></blockquote><p>直接下载组件，根据官方Readme介绍，移动<code>/demo</code>（我把文件名改为colorui）到小程序目录里即可，我是创建了文件夹<code>components</code>用于统一管理外部组件，结构如下。</p><p><img src="https://i.loli.net/2020/02/22/KAlbTFatwoev3yk.png" alt=""></p><p>下一步要在全局样式表<code>app.wxss</code>中导入样式（注意自己的路径⚠️）</p><pre><code class="language-css">@import './components/colorui/main.wxss'; # 样式@import './components/colorui/icon.wxss'; # 图标</code></pre><p>然后就可以在自己的Pages里调用样式了，作者并没有提供详尽的使用说明，所以可以先在手机上看Demo效果，然后去对应<code>.wxml</code>文件里找到位置，找到标签，如果需要修改可以去对应<code>main.wxss</code>文件中<code>Ctrl+F</code>找到修改源码，或者自己写css覆盖。</p><p>ColorUI是我一直使用的UI组件，所以详细介绍一下，当然还又很多其他的UI组件也不错。</p><h2 id="其他">其他</h2><ul><li><a href="">iViewUI</a></li><li><a href="">MinUI</a></li><li><a href="">TaroUI</a></li><li><a href="">Vant组件</a></li><li><a href="">WuxUI</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>最近出于兴趣在做小程序的开发，所以找了很多“轮子”，大多数开源组件都不尽人意，这里挑出几个好用的分享一下。</p><h2 id="NewWxComment-为数不多的评论组件">NewWxComment 为数不多的评论组件</h2><p><a href="https://github.com/yicm/NewWxComment">仓库</a> | <a href="https://github.com/yicm">作者</a></p><blockquote><p>NewWxCommenthttps://github.com/yicm/NewWxComment是一个微信小程序的评论组件，结合BaaS提供商LeanCloud，无需其他另外的个人或者云服务器，就可以免费使用。解决了需要个人去注册域名、备案、购买云服务器的繁杂问题。且兼容Valinehttps://github.com/xCss/Valine评论，打通PC端和移动端评论，特别适合使用Valine评论系统且想同时开发小程序文章评论的同学们.</p></blockquote><h4 id="特点">特点</h4><ul><li>独立插件，独立放入小程序项目即可使用</li><li>打通Valine评论系统，统一PC端和小程序端</li><li>友好的UI界面和交互界面</li><li>与微信用户信息绑定，显示微信用户头像和昵称</li><li>支持文章阅读量统计功能</li><li>支持评论回复功能，即子评论</li><li>支持emoji表情显示😉</li><li>支持评论分页加载</li><li>支持评论分页参数设置</li><li>内置获取微信用户公共信息授权</li><li>支持light/dark两种主题</li><li>机型兼容友好，包括全面屏iphone11等</li></ul>]]></content>
       
       
       <categories>
@@ -819,11 +819,11 @@
       
         <tags>
             
+            <tag> 软件 </tag>
+            
             <tag> 推荐 </tag>
             
             <tag> mac </tag>
-            
-            <tag> 软件 </tag>
             
             <tag> 效率 </tag>
             
@@ -1048,44 +1048,9 @@
             
             <tag> 项目 </tag>
             
-            <tag> ros </tag>
-            
             <tag> 机器人 </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的Threejs起步笔记</title>
-      <link href="/blog-cn/posts/31211/"/>
-      <url>/blog-cn/posts/31211/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p><a href="https://threejs.org">Three.js</a> 是一款运行在浏览器中的 3D 引擎，你可以用它创建各种三维场景，包括了摄影机、光影、材质等各种对象。你可以在它的主页上看到许多精彩的演示。</p></blockquote><p><img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210803003715.png" alt="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210803003715.png"></p><p>从现在起开始学习three.js作为以后开发AR项目的起步，每次看到别人做的炫酷的three.js应用都非常羡慕，大家如果对3D、AR等等概念有兴趣的话一定要了解一下，这篇文章作为我的three.js首篇笔记，简单介绍一下three.js的基本操作，已收录在<a href="https://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401">黑鲸知识库里</a>，欢迎大家关注后续的文章，也希望帮助不知道three.js的同学了解一下这个好玩的js库。如果大家感兴趣可以添加本站的交流微信群，一起讨论交流一下。</p><ul><li><a href="https://threejs.org">官方网站</a></li><li><a href="https://threejs.org/examples/#webgl_animation_cloth">官方事例</a></li><li><a href="https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg">本站的交流微信群</a></li></ul><h2 id="通过一个简单的例子来认识Three-js">通过一个简单的例子来认识Three.js</h2><hr><ul><li>为了真正能够让你的场景借助three.js来进行显示，我们需要以下几个对象：场景、相机和渲染器，这样我们就能透过摄像机渲染出场景, 下面是一个创建cube场景的小例子，你可以点击js查看源码及说明。</li></ul><p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="VwbBLQg" data-preview="true" data-user="uzizkp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">  <span>See the Pen <a href="https://codepen.io/uzizkp/pen/VwbBLQg">  Threejs练习1</a> by Kp (<a href="https://codepen.io/uzizkp">@uzizkp</a>)  on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><h2 id="安装">安装</h2><hr><ul><li>NPM安装</li></ul><pre><code class="language-basic">npm install --save three</code></pre><p>所有安装 three.js 的方式都依赖于 ES modules（参见 Eloquent JavaScript: ECMAScript Modules）。ES modules使你能够在最终项目中包含所需库的一小部分。</p><p>然后你就可以将它导入你的JS里代码了：</p><pre><code class="language-jsx">// 方式 1: 导入整个 three.js核心库import * as THREE from 'three';const scene = new THREE.Scene();// 方式 2: 仅导入你所需要的部分import &#123; Scene &#125; from 'three';const scene = new Scene();</code></pre><p>并非所有功能都可以通过 three 模块来直接访问（也称为“裸导入”）。three.js 中其它较为流行的部分 —— 如控制器（control）、加载器（loader）以及后期处理效果（post-processing effect） —— 必须从 examples/jsm 子目录下导入。</p><p>你可以从 <a href="https://eloquentjavascript.net/20_node.html#h_J6hW/SmL/a">Eloquent JavaScript: Installing with npm</a> 来了解更多有关 npm 模块的信息。</p><ul><li>通过CDN安装</li></ul><hr><pre><code class="language-jsx">&lt;script type=&quot;module&quot;&gt;  // 通过访问 https://cdn.skypack.dev/three 来查找最新版本。import * as THREE from 'https://cdn.skypack.dev/three@&lt;version&gt;';const scene = new THREE.Scene();&lt;/script&gt;</code></pre><h2 id="WebGL兼容性检查（WebGL-compatibility-check）">WebGL兼容性检查（WebGL compatibility check）</h2><hr><p>虽然这个问题现在已经变得越来不明显，但不可否定的是，某些设备以及浏览器直到现在仍然不支持WebGL。以下的方法可以帮助你检测当前用户所使用的环境是否支持WebGL，如果不支持，将会向用户提示一条信息。</p><p>请将<a href="https://github.com/mrdoob/three.js/blob/master/examples/jsm/WebGL.js">https://github.com/mrdoob/three.js/blob/master/examples/jsm/WebGL.js</a>引入到你的文件，并在尝试开始渲染之前先运行该文件。</p><pre><code class="language-jsx">if (WEBGL.isWebGLAvailable()) &#123;    // Initiate function or other initializations here    animate();&#125; else &#123;    const warning = WEBGL.getWebGLErrorMessage();    document.getElementById('container').appendChild(warning);&#125;</code></pre><h2 id="画线">画线</h2><hr><p>初步了解了three.js后，我们来尝试尝试一些简单的操作，比如画线</p><p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="vYmaKaX" data-preview="true" data-user="uzizkp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">  <span>See the Pen <a href="https://codepen.io/uzizkp/pen/vYmaKaX">  Three.js练习2</a> by Kp (<a href="https://codepen.io/uzizkp">@uzizkp</a>)  on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><h2 id="载入3D模型">载入3D模型</h2><hr><p>目前，3D模型的格式有成千上万种可供选择，但每一种格式都具有不同的目的、用途以及复杂性。 虽然 three.js已经提供了多种导入工具， 但是选择正确的文件格式以及工作流程将可以节省很多时间，以及避免遭受很多挫折。某些格式难以使用，或者实时体验效率低下，或者目前尚未得到完全支持。</p><p>如果有可能的话，推荐使用glTF（gl传输格式）。.GLB和.GLTF是这种格式的这两种不同版本， 都可以被很好地支持。由于glTF这种格式是专注于在程序运行时呈现三维物体的，所以它的传输效率非常高，且加载速度非常快。 功能方面则包括了网格、材质、纹理、皮肤、骨骼、变形目标、动画、灯光和摄像机。</p><p>公共领域的glTF文件可以在网上找到，例如 <a href="https://sketchfab.com/models?features=downloadable&amp;sort_by=-likeCount&amp;type=models">Sketchfab</a>，或者很多工具包含了glTF的导出功能：</p><ul><li><a href="https://www.blender.org/">Blender</a> by the Blender Foundation</li><li><a href="https://www.allegorithmic.com/products/substance-painter">Substance Painter</a> by Allegorithmic</li><li><a href="https://www.foundry.com/products/modo">Modo</a> by Foundry</li><li><a href="https://www.marmoset.co/toolbag/">Toolbag</a> by Marmoset</li><li><a href="https://www.sidefx.com/products/houdini/">Houdini</a> by SideFX</li><li><a href="https://labs.maxon.net/?p=3360">Cinema 4D</a> by MAXON</li><li><a href="https://github.com/KhronosGroup/COLLADA2GLTF">COLLADA2GLTF</a> by the Khronos Group</li><li><a href="https://github.com/facebookincubator/FBX2glTF">FBX2GLTF</a> by Facebook</li><li><a href="https://github.com/AnalyticalGraphicsInc/obj2gltf">OBJ2GLTF</a> by Analytical Graphics Inc</li><li>…and <a href="http://github.khronos.org/glTF-Project-Explorer/">还有更多</a></li></ul><h3 id="加载">加载</h3><p>Three.js的examples文件夹里有少数加载器（如ObjectLoader）默认包含在three.js中例如使用loaders里的GLTFLoader来加载模型–其他加载器应单独添加到你的应用程序中。</p><pre><code class="language-jsx">import &#123; GLTFLoader &#125; from 'three/examples/jsm/loaders/GLTFLoader.js';</code></pre><p>一旦你引入了一个加载器，你就已经准备好为场景添加模型了。不同加载器之间可能具有不同的语法 —— 当使用其它格式的时候请参阅该格式加载器的示例以及文档。对于glTF，使用全局script的用法类似：</p><pre><code class="language-jsx">const loader = new GLTFLoader();loader.load( 'path/to/model.glb', function ( gltf ) &#123;scene.add( gltf.scene );&#125;, undefined, function ( error ) &#123;console.error( error );&#125; );</code></pre><p>推荐使用glTF（gl传输格式）来对三维物体进行导入和导出，由于glTF这种格式专注于在程序运行时呈现三维物体，因此它的传输效率非常高，且加载速度非常快。</p><h2 id="viewport相关的meta标签">viewport相关的meta标签</h2><pre><code class="language-jsx">&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0&quot;&gt;</code></pre><p>这些标签用于在移动端浏览器上控制视口的大小和缩放（页面内容可能会以与可视区域不同的大小来呈现）。</p><p><a href="https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html">Safari: Using the Viewport</a></p><p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag">MDN: Using the viewport meta tag</a></p><h2 id="一些有用的链接（Useful-links">一些有用的链接（Useful links)</h2><ul><li>帮助论坛</li></ul><p>Three.js官方使用<a href="https://discourse.threejs.org/">forum</a>（官方论坛） 和 <a href="http://stackoverflow.com/tags/three.js/info">Stack Overflow</a>来处理帮助请求。 如果你需要一些帮助，这才是你所要去的地方。请<strong>一定不要</strong>在GitHub上提issue来寻求帮助。</p><ul><li>教程以及课程</li><li>three.js入门<ul><li><a href="https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html">Three.js Fundamentals starting lesson</a></li><li><a href="https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene">Beginning with 3D WebGL</a> by <a href="https://codepen.io/rachsmith/">Rachel Smith</a>.</li><li><a href="https://www.august.com.au/blog/animating-scenes-with-webgl-three-js/">Animating scenes with WebGL and three.js</a></li></ul></li><li>更加广泛、高级的文章与教程<ul><li><a href="https://discoverthreejs.com/">Discover three.js</a></li><li><a href="https://threejsfundamentals.org/">Three.js Fundamentals</a></li><li><a href="http://blog.cjgammon.com/">Collection of tutorials</a> by <a href="http://www.cjgammon.com/">CJ Gammon</a>.</li><li><a href="https://medium.com/soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857">Glossy spheres in three.js</a>.</li><li><a href="https://www.udacity.com/course/cs291">Interactive 3D Graphics</a> - a free course on Udacity that teaches the fundamentals of 3D Graphics, and uses three.js as its coding tool.</li><li><a href="https://aerotwist.com/tutorials/">Aerotwist</a> tutorials by <a href="https://github.com/paullewis/">Paul Lewis</a>.</li><li><a href="http://learningthreejs.com/">Learning Three.js</a> – a blog with articles dedicated to teaching three.js</li><li><a href="https://discourse.threejs.org/t/three-js-bookshelf/2468">Three.js Bookshelf</a> - Looking for more resources about three.js or computer graphics in general? Check out the selection of literature recommended by the community.</li></ul></li><li>新闻与更新<ul><li><a href="https://twitter.com/hashtag/threejs">Three.js on Twitter</a></li><li><a href="http://www.reddit.com/r/threejs/">Three.js on reddit</a></li><li><a href="http://www.reddit.com/r/webgl/">WebGL on reddit</a></li><li><a href="http://learningwebgl.com/blog/">Learning WebGL Blog</a> – The authoritive news source for WebGL.</li></ul></li><li>示例<ul><li><a href="https://github.com/edwinwebb/three-seed/">three-seed</a> - three.js starter project with ES6 and Webpack</li><li><a href="http://stemkoski.github.io/Three.js/index.html">Professor Stemkoskis Examples</a> - a collection of beginner friendly examples built using three.js r60.</li><li><a href="https://threejs.org/examples/">Official three.js examples</a> - these examples are maintained as part of the three.js repository, and always use the latest version of three.js.</li><li><a href="https://raw.githack.com/mrdoob/three.js/dev/examples/">Official three.js dev branch examples</a> - Same as the above, except these use the dev branch of three.js, and are used to check that everything is working as three.js being is developed.</li></ul></li><li>工具<ul><li><a href="http://www.physgl.org/">physgl.org</a> - JavaScript front-end with wrappers to three.js, to bring WebGL graphics to students learning physics and math.</li><li><a href="https://whsjs.readme.io/">Whitestorm.js</a> – Modular three.js framework with AmmoNext physics plugin.</li><li><a href="http://zz85.github.io/zz85-bookmarklets/threelabs.html">Three.js Inspector</a></li><li><a href="http://idflood.github.io/ThreeNodes.js/">ThreeNodes.js</a>.</li><li><a href="https://marketplace.visualstudio.com/items?itemName=bierner.comment-tagged-templates">comment-tagged-templates</a> - VSCode extension syntax highlighting for tagged template strings, like: glsl.js.</li><li><a href="https://github.com/MozillaReality/WebXR-emulator-extension">WebXR-emulator-extension</a></li></ul></li><li>WebGL参考<ul><li><a href="https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf">webgl-reference-card.pdf</a> - Reference of all WebGL and GLSL keywords, terminology, syntax and definitions.</li></ul></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-          <category> web </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 笔记 </tag>
-            
-            <tag> web </tag>
-            
-            <tag> js </tag>
-            
-            <tag> 3d </tag>
-            
-            <tag> 知识库 </tag>
+            <tag> ros </tag>
             
         </tags>
       
@@ -1179,6 +1144,41 @@
             <tag> 读书 </tag>
             
             <tag> 浮生六记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的Threejs起步笔记</title>
+      <link href="/blog-cn/posts/31211/"/>
+      <url>/blog-cn/posts/31211/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><a href="https://threejs.org">Three.js</a> 是一款运行在浏览器中的 3D 引擎，你可以用它创建各种三维场景，包括了摄影机、光影、材质等各种对象。你可以在它的主页上看到许多精彩的演示。</p></blockquote><p><img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210803003715.png" alt="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210803003715.png"></p><p>从现在起开始学习three.js作为以后开发AR项目的起步，每次看到别人做的炫酷的three.js应用都非常羡慕，大家如果对3D、AR等等概念有兴趣的话一定要了解一下，这篇文章作为我的three.js首篇笔记，简单介绍一下three.js的基本操作，已收录在<a href="https://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401">黑鲸知识库里</a>，欢迎大家关注后续的文章，也希望帮助不知道three.js的同学了解一下这个好玩的js库。如果大家感兴趣可以添加本站的交流微信群，一起讨论交流一下。</p><ul><li><a href="https://threejs.org">官方网站</a></li><li><a href="https://threejs.org/examples/#webgl_animation_cloth">官方事例</a></li><li><a href="https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg">本站的交流微信群</a></li></ul><h2 id="通过一个简单的例子来认识Three-js">通过一个简单的例子来认识Three.js</h2><hr><ul><li>为了真正能够让你的场景借助three.js来进行显示，我们需要以下几个对象：场景、相机和渲染器，这样我们就能透过摄像机渲染出场景, 下面是一个创建cube场景的小例子，你可以点击js查看源码及说明。</li></ul><p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="VwbBLQg" data-preview="true" data-user="uzizkp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">  <span>See the Pen <a href="https://codepen.io/uzizkp/pen/VwbBLQg">  Threejs练习1</a> by Kp (<a href="https://codepen.io/uzizkp">@uzizkp</a>)  on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><h2 id="安装">安装</h2><hr><ul><li>NPM安装</li></ul><pre><code class="language-basic">npm install --save three</code></pre><p>所有安装 three.js 的方式都依赖于 ES modules（参见 Eloquent JavaScript: ECMAScript Modules）。ES modules使你能够在最终项目中包含所需库的一小部分。</p><p>然后你就可以将它导入你的JS里代码了：</p><pre><code class="language-jsx">// 方式 1: 导入整个 three.js核心库import * as THREE from 'three';const scene = new THREE.Scene();// 方式 2: 仅导入你所需要的部分import &#123; Scene &#125; from 'three';const scene = new Scene();</code></pre><p>并非所有功能都可以通过 three 模块来直接访问（也称为“裸导入”）。three.js 中其它较为流行的部分 —— 如控制器（control）、加载器（loader）以及后期处理效果（post-processing effect） —— 必须从 examples/jsm 子目录下导入。</p><p>你可以从 <a href="https://eloquentjavascript.net/20_node.html#h_J6hW/SmL/a">Eloquent JavaScript: Installing with npm</a> 来了解更多有关 npm 模块的信息。</p><ul><li>通过CDN安装</li></ul><hr><pre><code class="language-jsx">&lt;script type=&quot;module&quot;&gt;  // 通过访问 https://cdn.skypack.dev/three 来查找最新版本。import * as THREE from 'https://cdn.skypack.dev/three@&lt;version&gt;';const scene = new THREE.Scene();&lt;/script&gt;</code></pre><h2 id="WebGL兼容性检查（WebGL-compatibility-check）">WebGL兼容性检查（WebGL compatibility check）</h2><hr><p>虽然这个问题现在已经变得越来不明显，但不可否定的是，某些设备以及浏览器直到现在仍然不支持WebGL。以下的方法可以帮助你检测当前用户所使用的环境是否支持WebGL，如果不支持，将会向用户提示一条信息。</p><p>请将<a href="https://github.com/mrdoob/three.js/blob/master/examples/jsm/WebGL.js">https://github.com/mrdoob/three.js/blob/master/examples/jsm/WebGL.js</a>引入到你的文件，并在尝试开始渲染之前先运行该文件。</p><pre><code class="language-jsx">if (WEBGL.isWebGLAvailable()) &#123;    // Initiate function or other initializations here    animate();&#125; else &#123;    const warning = WEBGL.getWebGLErrorMessage();    document.getElementById('container').appendChild(warning);&#125;</code></pre><h2 id="画线">画线</h2><hr><p>初步了解了three.js后，我们来尝试尝试一些简单的操作，比如画线</p><p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="vYmaKaX" data-preview="true" data-user="uzizkp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">  <span>See the Pen <a href="https://codepen.io/uzizkp/pen/vYmaKaX">  Three.js练习2</a> by Kp (<a href="https://codepen.io/uzizkp">@uzizkp</a>)  on <a href="https://codepen.io">CodePen</a>.</span></p><script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><h2 id="载入3D模型">载入3D模型</h2><hr><p>目前，3D模型的格式有成千上万种可供选择，但每一种格式都具有不同的目的、用途以及复杂性。 虽然 three.js已经提供了多种导入工具， 但是选择正确的文件格式以及工作流程将可以节省很多时间，以及避免遭受很多挫折。某些格式难以使用，或者实时体验效率低下，或者目前尚未得到完全支持。</p><p>如果有可能的话，推荐使用glTF（gl传输格式）。.GLB和.GLTF是这种格式的这两种不同版本， 都可以被很好地支持。由于glTF这种格式是专注于在程序运行时呈现三维物体的，所以它的传输效率非常高，且加载速度非常快。 功能方面则包括了网格、材质、纹理、皮肤、骨骼、变形目标、动画、灯光和摄像机。</p><p>公共领域的glTF文件可以在网上找到，例如 <a href="https://sketchfab.com/models?features=downloadable&amp;sort_by=-likeCount&amp;type=models">Sketchfab</a>，或者很多工具包含了glTF的导出功能：</p><ul><li><a href="https://www.blender.org/">Blender</a> by the Blender Foundation</li><li><a href="https://www.allegorithmic.com/products/substance-painter">Substance Painter</a> by Allegorithmic</li><li><a href="https://www.foundry.com/products/modo">Modo</a> by Foundry</li><li><a href="https://www.marmoset.co/toolbag/">Toolbag</a> by Marmoset</li><li><a href="https://www.sidefx.com/products/houdini/">Houdini</a> by SideFX</li><li><a href="https://labs.maxon.net/?p=3360">Cinema 4D</a> by MAXON</li><li><a href="https://github.com/KhronosGroup/COLLADA2GLTF">COLLADA2GLTF</a> by the Khronos Group</li><li><a href="https://github.com/facebookincubator/FBX2glTF">FBX2GLTF</a> by Facebook</li><li><a href="https://github.com/AnalyticalGraphicsInc/obj2gltf">OBJ2GLTF</a> by Analytical Graphics Inc</li><li>…and <a href="http://github.khronos.org/glTF-Project-Explorer/">还有更多</a></li></ul><h3 id="加载">加载</h3><p>Three.js的examples文件夹里有少数加载器（如ObjectLoader）默认包含在three.js中例如使用loaders里的GLTFLoader来加载模型–其他加载器应单独添加到你的应用程序中。</p><pre><code class="language-jsx">import &#123; GLTFLoader &#125; from 'three/examples/jsm/loaders/GLTFLoader.js';</code></pre><p>一旦你引入了一个加载器，你就已经准备好为场景添加模型了。不同加载器之间可能具有不同的语法 —— 当使用其它格式的时候请参阅该格式加载器的示例以及文档。对于glTF，使用全局script的用法类似：</p><pre><code class="language-jsx">const loader = new GLTFLoader();loader.load( 'path/to/model.glb', function ( gltf ) &#123;scene.add( gltf.scene );&#125;, undefined, function ( error ) &#123;console.error( error );&#125; );</code></pre><p>推荐使用glTF（gl传输格式）来对三维物体进行导入和导出，由于glTF这种格式专注于在程序运行时呈现三维物体，因此它的传输效率非常高，且加载速度非常快。</p><h2 id="viewport相关的meta标签">viewport相关的meta标签</h2><pre><code class="language-jsx">&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0&quot;&gt;</code></pre><p>这些标签用于在移动端浏览器上控制视口的大小和缩放（页面内容可能会以与可视区域不同的大小来呈现）。</p><p><a href="https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html">Safari: Using the Viewport</a></p><p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag">MDN: Using the viewport meta tag</a></p><h2 id="一些有用的链接（Useful-links">一些有用的链接（Useful links)</h2><ul><li>帮助论坛</li></ul><p>Three.js官方使用<a href="https://discourse.threejs.org/">forum</a>（官方论坛） 和 <a href="http://stackoverflow.com/tags/three.js/info">Stack Overflow</a>来处理帮助请求。 如果你需要一些帮助，这才是你所要去的地方。请<strong>一定不要</strong>在GitHub上提issue来寻求帮助。</p><ul><li>教程以及课程</li><li>three.js入门<ul><li><a href="https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html">Three.js Fundamentals starting lesson</a></li><li><a href="https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene">Beginning with 3D WebGL</a> by <a href="https://codepen.io/rachsmith/">Rachel Smith</a>.</li><li><a href="https://www.august.com.au/blog/animating-scenes-with-webgl-three-js/">Animating scenes with WebGL and three.js</a></li></ul></li><li>更加广泛、高级的文章与教程<ul><li><a href="https://discoverthreejs.com/">Discover three.js</a></li><li><a href="https://threejsfundamentals.org/">Three.js Fundamentals</a></li><li><a href="http://blog.cjgammon.com/">Collection of tutorials</a> by <a href="http://www.cjgammon.com/">CJ Gammon</a>.</li><li><a href="https://medium.com/soffritti.pierfrancesco/glossy-spheres-in-three-js-bfd2785d4857">Glossy spheres in three.js</a>.</li><li><a href="https://www.udacity.com/course/cs291">Interactive 3D Graphics</a> - a free course on Udacity that teaches the fundamentals of 3D Graphics, and uses three.js as its coding tool.</li><li><a href="https://aerotwist.com/tutorials/">Aerotwist</a> tutorials by <a href="https://github.com/paullewis/">Paul Lewis</a>.</li><li><a href="http://learningthreejs.com/">Learning Three.js</a> – a blog with articles dedicated to teaching three.js</li><li><a href="https://discourse.threejs.org/t/three-js-bookshelf/2468">Three.js Bookshelf</a> - Looking for more resources about three.js or computer graphics in general? Check out the selection of literature recommended by the community.</li></ul></li><li>新闻与更新<ul><li><a href="https://twitter.com/hashtag/threejs">Three.js on Twitter</a></li><li><a href="http://www.reddit.com/r/threejs/">Three.js on reddit</a></li><li><a href="http://www.reddit.com/r/webgl/">WebGL on reddit</a></li><li><a href="http://learningwebgl.com/blog/">Learning WebGL Blog</a> – The authoritive news source for WebGL.</li></ul></li><li>示例<ul><li><a href="https://github.com/edwinwebb/three-seed/">three-seed</a> - three.js starter project with ES6 and Webpack</li><li><a href="http://stemkoski.github.io/Three.js/index.html">Professor Stemkoskis Examples</a> - a collection of beginner friendly examples built using three.js r60.</li><li><a href="https://threejs.org/examples/">Official three.js examples</a> - these examples are maintained as part of the three.js repository, and always use the latest version of three.js.</li><li><a href="https://raw.githack.com/mrdoob/three.js/dev/examples/">Official three.js dev branch examples</a> - Same as the above, except these use the dev branch of three.js, and are used to check that everything is working as three.js being is developed.</li></ul></li><li>工具<ul><li><a href="http://www.physgl.org/">physgl.org</a> - JavaScript front-end with wrappers to three.js, to bring WebGL graphics to students learning physics and math.</li><li><a href="https://whsjs.readme.io/">Whitestorm.js</a> – Modular three.js framework with AmmoNext physics plugin.</li><li><a href="http://zz85.github.io/zz85-bookmarklets/threelabs.html">Three.js Inspector</a></li><li><a href="http://idflood.github.io/ThreeNodes.js/">ThreeNodes.js</a>.</li><li><a href="https://marketplace.visualstudio.com/items?itemName=bierner.comment-tagged-templates">comment-tagged-templates</a> - VSCode extension syntax highlighting for tagged template strings, like: glsl.js.</li><li><a href="https://github.com/MozillaReality/WebXR-emulator-extension">WebXR-emulator-extension</a></li></ul></li><li>WebGL参考<ul><li><a href="https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf">webgl-reference-card.pdf</a> - Reference of all WebGL and GLSL keywords, terminology, syntax and definitions.</li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> web </tag>
+            
+            <tag> js </tag>
+            
+            <tag> 3d </tag>
+            
+            <tag> 知识库 </tag>
             
         </tags>
       

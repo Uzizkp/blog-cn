@@ -5,7 +5,7 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
 :root {
   --lmm-hover: #fe5186;
   --lmm-fontcolor: #363636;
-  --lmm-background: #f7f9fe;
+  --lmm-background: rgba(255, 255, 255, 0.4);
   --lmm-floorcolor: #a9a9b3;
   --lmm-dark-fontcolor: #a9a9b3;
   --lmm-dack-background: #252627;
@@ -29,13 +29,18 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
   font-size: 16px;
   border-radius: 8px;
   box-shadow: none;
-  max-width: 810px;
-  margin: auto;
   overflow: hidden;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   padding: 8px 0;
+  margin: 20px 1%;
+  padding: 0.5rem 1rem;
+  box-shadow: var(--card-box-shadow);
+  border-style: solid;
+  border-width: 0.0001px;
+  border-color: rgba(255, 227, 230, 0.06);
+  display: none;
 }
 
 .cf-state-data {
@@ -117,13 +122,17 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
 }
 
 .cf-article {
-  margin: 20px 1%;
+  margin: 20px 0;
   border-radius: 5px;
   font-weight: bolder;
   overflow: hidden;
   transition: all ease-out .3s;
   position: relative;
   padding: 0.5rem 1rem;
+  box-shadow: var(--card-box-shadow);
+  border-style: solid;
+  border-width: 0.0001px;
+  border-color: rgba(255, 227, 230, 0.06);
 }
 
 .cf-article:hover {
@@ -142,7 +151,7 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
   display: inline-block !important;
   width: 22px;
   height: 22px;
-  border-radius: 50%;
+  border-radius: 6px;
   margin: 0 0 -4px !important;
   background: #fff;
 }
