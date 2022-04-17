@@ -100,9 +100,9 @@
     <category term="其他项目" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="hexo" scheme="http://zkpeace.com/blog-cn/tags/hexo/"/>
+    
+    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="主题" scheme="http://zkpeace.com/blog-cn/tags/%E4%B8%BB%E9%A2%98/"/>
     
@@ -306,15 +306,15 @@
     <category term="其他项目" scheme="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="hexo" scheme="http://zkpeace.com/blog-cn/tags/hexo/"/>
+    
+    <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
-    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
-    
     <category term="前端" scheme="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
