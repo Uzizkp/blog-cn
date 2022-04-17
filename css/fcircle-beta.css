@@ -390,7 +390,7 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
 }
 
 .cf-article {
-  background: var(--lmm-background);
+  background: var(--card-bg);
 }
 
 #cf-change span:hover {

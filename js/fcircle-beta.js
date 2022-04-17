@@ -8,7 +8,7 @@ var fdata = {
   jsonurl: '',
   apiurl: '',
   apipublieurl: 'https://circle-of-friends-simple.vercel.app/', //默认公共库
-  initnumber: 8, //首次加载文章数
+  initnumber: 10, //首次加载文章数
   stepnumber: 5, //更多加载文章数
   article_sort: 'created', //文章排序 updated or created
   error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c'
