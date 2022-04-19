@@ -5,7 +5,7 @@ Last Modified time : 20220326 15:38 by https://immmmm.com
 
 //默认数据
 var fdata = {
-  jsonurl: '',
+  jsonurl: 'https://blog-1253324855.cos.ap-shanghai.myqcloud.com/json/friendsLink.json',
   apiurl: '',
   apipublieurl: 'https://circle-of-friends-simple.vercel.app/', //默认公共库
   initnumber: 10, //首次加载文章数

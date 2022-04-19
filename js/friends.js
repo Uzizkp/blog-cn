@@ -8,10 +8,9 @@
   //article_sort: 'created', //文章排序 updated or created
   // error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c'
 // }
-
 var links = document.getElementById('more-links');
 var rlinks = document.getElementById('random-links');
-
+{/* <img class="post_bg entered loaded" src="https://blog-1253324855.cos.ap-shanghai.myqcloud.com/cover/11.png" data-lazy-src="https://blog-1253324855.cos.ap-shanghai.myqcloud.com/cover/11.png" onerror="this.onerror=null;this.src='/blog-cn/img/404.jpg'" alt="黑鲸智能系统知识库" data-ll-status="loaded"> */}
 function getRandom() {
     rlinks.innerHTML = '';
     for(var i = 0; i < 3; i++){
@@ -27,6 +26,9 @@ function getRandom() {
         link.setAttribute('class', 'random-link');
         var img = document.createElement('img');
         img.setAttribute('src', imgUrl);
+        img.setAttribute('class', 'loaded entered');
+        img.setAttribute('data-ll-status', 'loaded');
+        img.setAttribute('onerror', "this.onerror=null;this.src='/blog-cn/img//curioso/5.JPG'");
         var nameTag = document.createElement('a');
         nameTag.setAttribute('href', url); 
         nameTag.setAttribute('target', "_blank");
@@ -45,7 +47,7 @@ function getRandom() {
 getRandom();
 
 
-for(var i = 0; i < 18; i++){
+for(var i = 0; i < 15; i++){
 
     num = Math.floor(Math.random() * friendsData.length);
     var imgUrl = friendsData[num].Avatar;
@@ -67,7 +69,9 @@ for(var i = 0; i < 18; i++){
 
     var img = document.createElement('img');
     img.setAttribute('src', imgUrl);
-    img.setAttribute('class', 'avatar');
+    img.setAttribute('class', 'avatar loaded entered');
+    img.setAttribute('data-ll-status', 'loaded');
+    img.setAttribute('onerror', "this.onerror=null;this.src='/blog-cn/img//curioso/5.JPG'");
     info.appendChild(img);
 
     var nameTag = document.createElement('a');
@@ -92,11 +96,7 @@ for(var i = 0; i < 18; i++){
 
     link.appendChild(info);
     link.appendChild(descrTag);
-      
+  
 
     links.appendChild(link);
 }
-
-$('img').on("error", function() {
-    $(this).attr('src', 'https://blog.zhheo.com/img/avatar.png');  // 替换为默认图片
-  });

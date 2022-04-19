@@ -2007,6 +2007,7 @@ blockquote footer cite:before {
   padding: 4rem 1rem;
   max-width: 1700px;
   min-height: calc(100vh);
+  height: auto;
 }
 @media screen and (max-width: 900px) {
   .layout {
@@ -6197,6 +6198,12 @@ ul {
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
 }
+#friends .title a {
+  color: var(--font-color);
+}
+#friends .title a:hover {
+  text-shadow: 1px 1px #fff, -1px -1px #444;
+}
 #friends .title .tag {
   float: right;
   margin: 0 20px;
@@ -6270,6 +6277,7 @@ ul {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
+  height: auto;
 }
 #friends .links #more-links .more-link,
 #friends .links #random-links .more-link,
