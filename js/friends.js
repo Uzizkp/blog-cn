@@ -18,7 +18,7 @@ function getRandom() {
         img.setAttribute('src', imgUrl);
         img.setAttribute('class', 'loaded entered');
         img.setAttribute('data-ll-status', 'loaded');
-        img.setAttribute('onerror', "this.onerror=null;this.src='/blog-cn/img//curioso/5.JPG'");
+        // img.setAttribute('onerror', "this.onerror=null;this.src='/blog-cn/img//curioso/5.JPG'");
         var nameTag = document.createElement('a');
         nameTag.setAttribute('href', url); 
         nameTag.setAttribute('target', "_blank");
@@ -37,13 +37,13 @@ function getRandom() {
 getRandom();
 
 
-for(var i = 0; i < 15; i++){
+for(var i = 0; i < friendsData.length; i++){
 
-    num = Math.floor(Math.random() * friendsData.length);
-    var imgUrl = friendsData[num].Avatar;
-    var fname = friendsData[num].Name;
-    var descr = friendsData[num].Description;
-    var url = friendsData[num].Link;
+    // num = Math.floor(Math.random() * friendsData.length);
+    var imgUrl = friendsData[i].Avatar;
+    var fname = friendsData[i].Name;
+    var descr = friendsData[i].Description;
+    var url = friendsData[i].Link;
     var tags = '#tech';
 
 
@@ -61,7 +61,7 @@ for(var i = 0; i < 15; i++){
     img.setAttribute('src', imgUrl);
     img.setAttribute('class', 'avatar loaded entered');
     img.setAttribute('data-ll-status', 'loaded');
-    img.setAttribute('onerror', "this.onerror=null;this.src='/blog-cn/img//curioso/5.JPG'");
+    // img.setAttribute('onerror', "this.onerror=null;this.src='img//curioso/5.JPG'");
     info.appendChild(img);
 
     var nameTag = document.createElement('a');
@@ -90,3 +90,8 @@ for(var i = 0; i < 15; i++){
 
     links.appendChild(link);
 }
+
+$('img').on("error", function() {
+    $(this).attr('src', 'img//curioso/5.JPG');  // 替换为默认图片
+  });
+
