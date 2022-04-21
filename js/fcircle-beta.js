@@ -5,7 +5,7 @@ Last Modified time : 20220326 15:38 by https://immmmm.com
 
 //默认数据
 var fdata = {
-  jsonurl: 'https://blog-1253324855.cos.ap-shanghai.myqcloud.com/json/friendsLink.json',
+  jsonurl: '',
   apiurl: '',
   apipublieurl: 'https://circle-of-friends-simple.vercel.app/', //默认公共库
   initnumber: 10, //首次加载文章数
@@ -238,7 +238,7 @@ function changeEgg() {
     localStorage.removeItem("statisticalData")
     container.innerHTML = ""
     UrlNow = localStorage.getItem("urlNow")
-    //console.log("新"+UrlNow)
+    console.log("新"+UrlNow)
     var UrlNowPublic = fdata.apipublieurl + 'all?'
     if (UrlNow !== UrlNowPublic) { //非完整默认公开库
       changeUrl = fdata.apipublieurl + 'all?'
@@ -262,7 +262,7 @@ function FetchFriendCircle(sortNow, changeUrl) {
   if (changeUrl) {
     fetchUrl = changeUrl + "rule=" + sortNow + "&start=0&end=" + end
   }
-  //console.log(fetchUrl)
+  console.log(fetchUrl)
   fetch(fetchUrl)
     .then(res => res.json())
     .then(json => {

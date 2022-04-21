@@ -1,16 +1,6 @@
-
-
-// var fdataUser = {
-  // jsonurl: 'https://blog-1253324855.cos.ap-shanghai.myqcloud.com/json/link.json',  //【推荐】json 匹配模式
-  // apiurl: 'https://hexo-circle-of-friends-kappa-six.vercel.app/',  //自部署api
-  //initnumber: 20,  //首次加载文章数
-  //stepnumber: 10,  //更多加载文章数
-  //article_sort: 'created', //文章排序 updated or created
-  // error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c'
-// }
 var links = document.getElementById('more-links');
 var rlinks = document.getElementById('random-links');
-{/* <img class="post_bg entered loaded" src="https://blog-1253324855.cos.ap-shanghai.myqcloud.com/cover/11.png" data-lazy-src="https://blog-1253324855.cos.ap-shanghai.myqcloud.com/cover/11.png" onerror="this.onerror=null;this.src='/blog-cn/img/404.jpg'" alt="黑鲸智能系统知识库" data-ll-status="loaded"> */}
+
 function getRandom() {
     rlinks.innerHTML = '';
     for(var i = 0; i < 3; i++){
