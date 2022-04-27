@@ -9,7 +9,7 @@
     <atom:link href="http://zkpeace.com/blog-cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>The Universe of KP</description>
-    <pubDate>Thu, 21 Apr 2022 10:28:58 GMT</pubDate>
+    <pubDate>Wed, 27 Apr 2022 12:15:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,13 +18,7 @@
       <guid>http://zkpeace.com/blog-cn/posts/34388/</guid>
       <pubDate>Sun, 17 Apr 2022 03:58:21 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</description>
-          
-        
+      <description>最近一直在家看剧，看了《上海堡垒》，已经改编成电视剧了，真的是史诗级的烂。还看了部神话片，大概的意思是说人间妖魔横行，天庭派大将清陵带兵镇压，但是清陵手段残暴，为了完成天庭的任务，不惜迫害凡人，生灵涂炭，人间众生敢怒不敢言，冥界大门已开，妖魔无穷尽也，凡人的苦难无穷尽也。此时人们又想起了游历外界的小仙宫村。话说这宫村本只是三两小厮供奉的村口小仙，天魔刑官降生人间之时，竟然提出了与魔共生之策，遭到天人两界口诛笔伐，被放逐至三界之外。只是现在这天庭对清陵百般袒护，看似完全没有宽恕宫村之意。天庭为何非清陵不可？宫村能否重返三界？天魔刑官又会不会再次进化呢？故事越发的扑所迷离。</description>
       
       
       
@@ -80,13 +74,7 @@
       <guid>http://zkpeace.com/blog-cn/posts/240/</guid>
       <pubDate>Wed, 23 Mar 2022 05:01:39 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</description>
-          
-        
+      <description>如果你玩过智能家居，想必也知道不同大厂品牌的智能家居都在构建自己的壁垒，由于不同品牌的智能家居系统优缺点十分明显，自然而然的有玩家想要打破品牌的壁垒，融合各家的优点，打造专属于自己智能家居场景。在众多品牌智能家居中米家价格便宜种类全，可玩性很高，而apple智能家居系统使用体验是最好的，结合这两个系统的产品成为了包括我在内的众多玩家的第一选择。关于小米智能家居联动homekit的方案，网上已经有大量的教程，在网络通畅的情况下实现起来其实并不困难。总的来说就是将不同协议的智能家居设备通过HomeAssistant系统（简称HA）进行管理，并且通过HomeAssistant系统进行联动。虽然HA的管理比较简单，但是联动的实现比较复杂，需要自己根据情况去实现。这里就记录一下，我一个10平的小房间的配置过程。</description>
       
       
       
@@ -239,11 +227,11 @@
       
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/">手机</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/35289/#disqus_thread</comments>
@@ -268,9 +256,9 @@
       
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/">观点</category>
       
@@ -303,15 +291,15 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E9%A1%B9%E7%9B%AE/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/hexo/">hexo</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/">项目</category>
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/">前端</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/">其他项目</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/">前端</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/16907/#disqus_thread</comments>
