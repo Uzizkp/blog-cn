@@ -9,8 +9,41 @@
     <atom:link href="http://zkpeace.com/blog-cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>The Universe of KP</description>
-    <pubDate>Wed, 27 Apr 2022 12:15:24 GMT</pubDate>
+    <pubDate>Sun, 01 May 2022 15:09:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>这不是阿西莫夫给我看的基地</title>
+      <link>http://zkpeace.com/blog-cn/posts/14800/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/14800/</guid>
+      <pubDate>Sun, 01 May 2022 14:44:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E5%BD%B1%E8%AF%84/">影评</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E5%BD%B1%E8%AF%84/">影评</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%B5%E5%BD%B1/">电影</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%A7%91%E5%B9%BB/">科幻</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/14800/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>最近在看“上海神话”</title>
@@ -580,43 +613,6 @@
       
       
       <comments>http://zkpeace.com/blog-cn/posts/24491/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>数据可视化：把玩一下seaborn(一)</title>
-      <link>http://zkpeace.com/blog-cn/posts/43039/</link>
-      <guid>http://zkpeace.com/blog-cn/posts/43039/</guid>
-      <pubDate>Thu, 23 Apr 2020 20:18:46 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</description>
-          
-        
-      
-      
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/">python</category>
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/python/">python</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/">入门</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/">数据可视化</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/seaborn/">seaborn</category>
-      
-      
-      <comments>http://zkpeace.com/blog-cn/posts/43039/#disqus_thread</comments>
       
     </item>
     

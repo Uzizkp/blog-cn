@@ -6,7 +6,7 @@
   <link href="http://zkpeace.com/blog-cn/atom.xml" rel="self"/>
   
   <link href="http://zkpeace.com/blog-cn/"/>
-  <updated>2022-04-27T12:15:24.559Z</updated>
+  <updated>2022-05-01T15:09:49.992Z</updated>
   <id>http://zkpeace.com/blog-cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这不是阿西莫夫给我看的基地</title>
+    <link href="http://zkpeace.com/blog-cn/posts/14800/"/>
+    <id>http://zkpeace.com/blog-cn/posts/14800/</id>
+    <published>2022-05-01T14:44:11.000Z</published>
+    <updated>2022-05-01T15:09:49.992Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="影评" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="http://zkpeace.com/blog-cn/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="电影" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="科幻" scheme="http://zkpeace.com/blog-cn/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>最近在看“上海神话”</title>
@@ -546,41 +577,6 @@
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
     <category term="网站" scheme="http://zkpeace.com/blog-cn/tags/%E7%BD%91%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据可视化：把玩一下seaborn(一)</title>
-    <link href="http://zkpeace.com/blog-cn/posts/43039/"/>
-    <id>http://zkpeace.com/blog-cn/posts/43039/</id>
-    <published>2020-04-23T20:18:46.000Z</published>
-    <updated>2022-04-10T15:28:35.768Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</summary>
-        
-      
-    
-    
-    
-    <category term="技术" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="python" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/"/>
-    
-    
-    <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="python" scheme="http://zkpeace.com/blog-cn/tags/python/"/>
-    
-    <category term="入门" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/"/>
-    
-    <category term="数据可视化" scheme="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    
-    <category term="seaborn" scheme="http://zkpeace.com/blog-cn/tags/seaborn/"/>
     
   </entry>
   
