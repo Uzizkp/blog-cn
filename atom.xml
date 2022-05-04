@@ -6,7 +6,7 @@
   <link href="http://zkpeace.com/blog-cn/atom.xml" rel="self"/>
   
   <link href="http://zkpeace.com/blog-cn/"/>
-  <updated>2022-05-04T10:48:11.328Z</updated>
+  <updated>2022-05-04T11:02:26.485Z</updated>
   <id>http://zkpeace.com/blog-cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zkpeace.com/blog-cn/posts/15482/"/>
     <id>http://zkpeace.com/blog-cn/posts/15482/</id>
     <published>2022-05-04T06:23:09.000Z</published>
-    <updated>2022-05-04T10:48:11.328Z</updated>
+    <updated>2022-05-04T11:02:26.485Z</updated>
     
     
     <summary type="html">以前都是洗发水和沐浴露这些产品都是蒙头吓买，最近准备收集下相关信息，为以后选购做参考</summary>
@@ -328,9 +328,9 @@
     
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
-    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
-    
     <category term="前端" scheme="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
