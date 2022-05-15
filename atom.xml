@@ -33,9 +33,9 @@
     <category term="测评" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/"/>
     
     
-    <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
-    
     <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
     
     <category term="购物" scheme="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/"/>
     
@@ -58,9 +58,9 @@
     <category term="测评" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E6%B5%8B%E8%AF%84/"/>
     
     
-    <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
-    
     <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
     
     <category term="购物" scheme="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/"/>
     
@@ -108,9 +108,9 @@
     <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
     
     
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -131,9 +131,9 @@
     <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
     
     
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -353,9 +353,9 @@
     
     <category term="项目" scheme="http://zkpeace.com/blog-cn/tags/%E9%A1%B9%E7%9B%AE/"/>
     
-    <category term="前端" scheme="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="其他项目" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="前端" scheme="http://zkpeace.com/blog-cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
