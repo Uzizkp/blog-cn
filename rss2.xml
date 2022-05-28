@@ -9,7 +9,7 @@
     <atom:link href="http://zkpeace.com/blog-cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>The Universe of KP</description>
-    <pubDate>Sat, 28 May 2022 14:13:54 GMT</pubDate>
+    <pubDate>Sat, 28 May 2022 17:02:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -78,14 +78,41 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%B4%AD%E7%89%A9/">购物</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/">测评</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/">测评</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/">购物</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/40641/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>洗发水沐浴露选购经验分享</title>
+      <link>http://zkpeace.com/blog-cn/posts/15482/</link>
+      <guid>http://zkpeace.com/blog-cn/posts/15482/</guid>
+      <pubDate>Wed, 04 May 2022 06:23:09 GMT</pubDate>
+      
+      <description>以前都是洗发水和沐浴露这些产品都是蒙头吓买，最近准备收集下相关信息，为以后选购做参考</description>
+      
+      
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%B4%AD%E7%89%A9/">购物</category>
+      
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/">测评</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/">购物</category>
+      
+      
+      <comments>http://zkpeace.com/blog-cn/posts/15482/#disqus_thread</comments>
       
     </item>
     
@@ -132,9 +159,9 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/34388/#disqus_thread</comments>
@@ -157,9 +184,9 @@
       <category domain="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/">记事</category>
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/">生活</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/29555/#disqus_thread</comments>
@@ -325,11 +352,11 @@
       
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/">手机</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       
       <comments>http://zkpeace.com/blog-cn/posts/35289/#disqus_thread</comments>
@@ -354,9 +381,9 @@
       
       
       
-      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
-      
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/">设计</category>
+      
+      <category domain="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
       
       <category domain="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/">观点</category>
       
@@ -558,43 +585,6 @@
       
       
       <comments>http://zkpeace.com/blog-cn/posts/39769/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>数据可视化：把玩一下seaborn(二)</title>
-      <link>http://zkpeace.com/blog-cn/posts/26811/</link>
-      <guid>http://zkpeace.com/blog-cn/posts/26811/</guid>
-      <pubDate>Fri, 22 May 2020 22:21:35 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</description>
-          
-        
-      
-      
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/">python</category>
-      
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/python/">python</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/">入门</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/">数据可视化</category>
-      
-      <category domain="http://zkpeace.com/blog-cn/tags/seaborn/">seaborn</category>
-      
-      
-      <comments>http://zkpeace.com/blog-cn/posts/26811/#disqus_thread</comments>
       
     </item>
     

@@ -6,7 +6,7 @@
   <link href="http://zkpeace.com/blog-cn/atom.xml" rel="self"/>
   
   <link href="http://zkpeace.com/blog-cn/"/>
-  <updated>2022-05-28T14:13:54.703Z</updated>
+  <updated>2022-05-28T17:02:52.625Z</updated>
   <id>http://zkpeace.com/blog-cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zkpeace.com/blog-cn/posts/17494/"/>
     <id>http://zkpeace.com/blog-cn/posts/17494/</id>
     <published>2022-05-28T13:08:45.000Z</published>
-    <updated>2022-05-28T14:13:54.703Z</updated>
+    <updated>2022-05-28T17:02:52.625Z</updated>
     
     
     <summary type="html">最近一直在写C++, 以前没在工程中那么仔细的研究过C++的代码, 读书的时候也是Python写的比较多, 突然写起来感觉自己真的菜的一B,赶紧的读一读&lt;Google 开源项目风格指南&gt;找补找补,现在读完了,收获还是挺多的, 就来聊一聊. 博客的是原创总结性的文章,学习笔记都放在了[黑鲸知识库](notion://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401)中的[C++](https://www.notion.so/wikiwhale/b7114d3e3b134ad99d9dc46dfdb11644?v=512f34ecdf4d459fb8175cfca0f5e92c)目录里了,有兴趣的同学可以去看看.</summary>
@@ -79,9 +79,34 @@
     <category term="购物" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%B4%AD%E7%89%A9/"/>
     
     
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
     <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
     
+    <category term="购物" scheme="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洗发水沐浴露选购经验分享</title>
+    <link href="http://zkpeace.com/blog-cn/posts/15482/"/>
+    <id>http://zkpeace.com/blog-cn/posts/15482/</id>
+    <published>2022-05-04T06:23:09.000Z</published>
+    <updated>2022-05-28T17:02:47.207Z</updated>
+    
+    
+    <summary type="html">以前都是洗发水和沐浴露这些产品都是蒙头吓买，最近准备收集下相关信息，为以后选购做参考</summary>
+    
+    
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="购物" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%B4%AD%E7%89%A9/"/>
+    
+    
     <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="测评" scheme="http://zkpeace.com/blog-cn/tags/%E6%B5%8B%E8%AF%84/"/>
     
     <category term="购物" scheme="http://zkpeace.com/blog-cn/tags/%E8%B4%AD%E7%89%A9/"/>
     
@@ -129,9 +154,9 @@
     <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
     
     
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -152,9 +177,9 @@
     <category term="记事" scheme="http://zkpeace.com/blog-cn/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E4%BA%8B/"/>
     
     
-    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="生活" scheme="http://zkpeace.com/blog-cn/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -308,11 +333,11 @@
     
     
     
-    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="手机" scheme="http://zkpeace.com/blog-cn/tags/%E6%89%8B%E6%9C%BA/"/>
     
     <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -335,9 +360,9 @@
     
     
     
-    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="设计" scheme="http://zkpeace.com/blog-cn/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="软件" scheme="http://zkpeace.com/blog-cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="观点" scheme="http://zkpeace.com/blog-cn/tags/%E8%A7%82%E7%82%B9/"/>
     
@@ -524,41 +549,6 @@
     <category term="摄影" scheme="http://zkpeace.com/blog-cn/tags/%E6%91%84%E5%BD%B1/"/>
     
     <category term="旅行" scheme="http://zkpeace.com/blog-cn/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据可视化：把玩一下seaborn(二)</title>
-    <link href="http://zkpeace.com/blog-cn/posts/26811/"/>
-    <id>http://zkpeace.com/blog-cn/posts/26811/</id>
-    <published>2020-05-22T22:21:35.000Z</published>
-    <updated>2022-04-10T15:28:26.339Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-cn/assets/css/APlayer.min.css&quot;&gt;&lt;script</summary>
-        
-      
-    
-    
-    
-    <category term="技术" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="python" scheme="http://zkpeace.com/blog-cn/categories/%E6%8A%80%E6%9C%AF/python/"/>
-    
-    
-    <category term="笔记" scheme="http://zkpeace.com/blog-cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="python" scheme="http://zkpeace.com/blog-cn/tags/python/"/>
-    
-    <category term="入门" scheme="http://zkpeace.com/blog-cn/tags/%E5%85%A5%E9%97%A8/"/>
-    
-    <category term="数据可视化" scheme="http://zkpeace.com/blog-cn/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    
-    <category term="seaborn" scheme="http://zkpeace.com/blog-cn/tags/seaborn/"/>
     
   </entry>
   
